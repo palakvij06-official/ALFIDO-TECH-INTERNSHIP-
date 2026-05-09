@@ -87,7 +87,8 @@ Learned system programming concepts
 Hands-on experience with GitHub workflow
 Developed debugging and coding practices
 
-👩‍💻 Author
+👩‍💻 Author:-
 Palak Vij
+
 C / C++ Programming Intern
 ALFIDO TECH INTERNSHIP
