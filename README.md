@@ -1,5 +1,5 @@
 # ALFIDO-TECH-INTERNSHIP-
-📌 Internship Details
+📌 Internship Details:-
 Intern Name: Palak Vij
 Domain: C / C++ Programming
 Internship Duration: 10 April 2026 – 10 May 2026
@@ -13,7 +13,8 @@ System Programming
 Process Management
 Memory Handling
 Clean Coding Practices
-🛠️ Tools & Technologies Used
+
+🛠️ Tools & Technologies Used:-
 GCC / G++
 C Programming
 C++ Programming
